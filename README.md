@@ -7,7 +7,7 @@
 
 🗄️ **[SmartSort](https://github.com/Tommy-Parisi/SmartSort)** — AI-powered desktop app that organizes files using semantic analysis and ML clustering (Svelte + Python)
 
-👮‍♂️ **[Exemption-Request-Classifier](https://github.com/Tommy-Parisi/Exemption-Request-Classifier)** — LLM-assisted security policy exception system built for UD IT
+👮‍♂️ **[Exemption-Request-Classifier](https://github.com/Tommy-Parisi/Exemption-Request-Classifier)** — LLM-assisted security policy exception system built for the University of Delaware IT Department
 
 🎼 **[Hildegard](https://github.com/Tommy-Parisi/Hildegard)** — An LLM composer for local models
 
