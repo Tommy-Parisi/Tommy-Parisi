@@ -12,4 +12,4 @@
 🎼 **[Hildegard](https://github.com/Tommy-Parisi/Hildegard)** — An LLM composer for local models
 
 
-🌐 See all my work: [Portfolio](https://github.com/Tommy-Parisi/Portfolio)
+🌐 See all my work: [Portfolio](https://tommyparisi.com)
